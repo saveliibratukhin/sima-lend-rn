@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import { StyleSheet, Text, Image, ScrollView, TouchableOpacity, SafeAreaView } from 'react-native';
+import { StyleSheet, Text, Image, ScrollView, TouchableOpacity } from 'react-native';
 import ItemList from "./ItemList";
 import Loading from "./Loading";
 
